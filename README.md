@@ -1,4 +1,4 @@
-# 🎧 Simulador de Streams Musicais (Estilo Spotify)
+# 🎧 Simulador de Streams Musicais (Estilo Spotify/Apple Music)
 
 > **✨ Nota do Autor:** Este é um projeto totalmente pessoal, desenvolvido e movido pelo meu entusiasmo genuíno por música e pela minha paixão pela arquitetura Back-End! O meu grande objetivo aqui foi abrir a "caixa preta" e simular os desafios de engenharia que plataformas reais como o Spotify e a Apple Music enfrentam todos os dias para processar milhões de dados sem travar.
 
